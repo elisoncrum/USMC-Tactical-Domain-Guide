@@ -2,17 +2,18 @@
 
 * [Introduction](README.md)
 
-## Hardware and Virtualization
+## Hardware
 
-* [🖥 Hardware and Virtualization](hardware-and-virtualization/hardware-and-virtualization/README.md)
-  * [Klas Voyager Kit](hardware-and-virtualization/hardware-and-virtualization/klas-voyager-kit.md)
-  * [Application Server Module AN/TYQ-147A](hardware-and-virtualization/hardware-and-virtualization/application-server-module-an-tyq-147a/README.md)
-    * [Dell Power Edges](hardware-and-virtualization/hardware-and-virtualization/application-server-module-an-tyq-147a/dell-power-edges.md)
-  * [Virtualization](hardware-and-virtualization/hardware-and-virtualization/virtualization/README.md)
-    * [Windows Hyper-v](hardware-and-virtualization/hardware-and-virtualization/virtualization/windows-hyper-v.md)
-    * [VMware ESXi](hardware-and-virtualization/hardware-and-virtualization/virtualization/vmware-esxi.md)
+* [Application Server Module AN/TYQ-147A](hardware/application-server-module-an-tyq-147a/README.md)
+  * [Dell Power Edges](hardware/application-server-module-an-tyq-147a/dell-power-edges.md)
+* [Klas Voyager Kit](hardware/klas-voyager-kit.md)
 
-## 🌐 Core Services
+## Virtualization
+
+* [Windows Hyper-v](virtualization/windows-hyper-v.md)
+* [VMware ESXi](virtualization/vmware-esxi.md)
+
+## Core Services
 
 * [Chat Servers](core-services/chat-servers/README.md)
   * [Installation](core-services/chat-servers/installation.md)
@@ -37,7 +38,7 @@
 * [Utility / Jump Servers](other-services/utility-jump-servers.md)
 * [Print Server](other-services/print-server.md)
 
-## 🔐 Security
+## Security
 
 * [Nessus Scanner](security/nessus-scanner.md)
 
